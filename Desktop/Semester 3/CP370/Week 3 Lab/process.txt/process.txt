@@ -1,0 +1,3 @@
+(right clicked on folder I wanted it to go into and
+clicked "Git Bash Here") then type in Git Bash:
+touch process.txt
