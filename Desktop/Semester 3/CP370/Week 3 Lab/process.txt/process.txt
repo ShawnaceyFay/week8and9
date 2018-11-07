@@ -1,3 +1,11 @@
 (right clicked on folder I wanted it to go into and
 clicked "Git Bash Here") then type in Git Bash:
 touch process.txt
+
+git add .
+git commit -m "users.dat" 
+(seemed to add all of them even process)
+
+git config --list (to check current info)
+git config credential.username "Shawnacey Williams_SCM"
+git config user.name "Shawnacey Williams_SCM"
